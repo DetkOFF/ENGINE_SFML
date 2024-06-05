@@ -1,0 +1,21 @@
+# ninja log v5
+1	540	7392892533127904	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	7d69d531d20ba66b
+1	540	7392892533127904	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	7d69d531d20ba66b
+540	62932	7392893157108964	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	573cc838108bb17a
+540	62932	7392893157108964	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	573cc838108bb17a
+62932	66080	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	ba6e5f80ce865e84
+62932	66080	0	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	ba6e5f80ce865e84
+66081	66138	7392893189162462	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	94f94ff924108a1f
+66081	66138	7392893189162462	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	94f94ff924108a1f
+66138	66188	7392893189664419	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	2e751921a023fd03
+66138	66188	7392893189664419	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	2e751921a023fd03
+66189	66241	7392893190197677	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	e95576371877260c
+66189	66241	7392893190197677	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	e95576371877260c
+66241	66294	7392893190721695	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ad1774a5636a95e2
+66241	66294	7392893190721695	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ad1774a5636a95e2
+66294	66344	7392893191219997	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b956b0de85a26d00
+66294	66344	7392893191219997	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b956b0de85a26d00
+66344	66412	7392893191906134	CMakeFiles/sfml-populate-complete	a7a1bb7a526874fb
+66344	66412	7392893191906134	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a7a1bb7a526874fb
+66344	66412	7392893191906134	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	a7a1bb7a526874fb
+66344	66412	7392893191906134	D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	a7a1bb7a526874fb

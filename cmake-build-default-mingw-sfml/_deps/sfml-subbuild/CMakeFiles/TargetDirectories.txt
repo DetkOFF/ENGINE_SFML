@@ -1,0 +1,3 @@
+D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+D:/TrojkaGame/ENGINE_SFML/cmake-build-default-mingw-sfml/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

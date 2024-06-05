@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule"
+		},
+		{
+			"file" : "D:/TrojkaGame/ENGINE_SFML/cmake-build-debug-mingw-sfml/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}
